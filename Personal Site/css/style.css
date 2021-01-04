@@ -1,0 +1,145 @@
+
+body{
+  position: relative;
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  line-height: 200%;
+  font-family:"Sacramento";
+  font-size: 5.625rem;
+  color: #66BFBF ;
+  margin: 50px auto 0 auto;
+}
+
+.cloud-top{
+  position: absolute;
+}
+
+.cloud-bottom{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.top{
+  padding-top: 100px;
+  background-color: #e4f9f5;
+  position: relative;
+}
+
+h2{
+  font-size: 2rem;
+  margin: 50px auto;
+  color: #66BFBF;
+  font-weight: bold;
+  font-family: "Montserrat"
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h3{
+  color: #11999E;
+    font-family: "Poppins";
+}
+
+.skills{
+  margin: 100px auto 100px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+  line-height: 200%;
+}
+
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+p{
+  color: #40514e;
+  font-family: "Poppins";
+  font-size: 15px;
+  font-weight: bold;
+}
+
+hr{
+  margin: 50px auto;
+  padding-top: 20px;
+  clear: right;
+  border-top: dotted 6px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 3%;
+  border-color: #eaf6f6;
+}
+
+.profile{
+  color: #40514e;
+  font-family: "Poppins";
+  font-size: 15px;
+  width: 50%;
+  display: inline-block;
+}
+
+.BUTTON_WWJ {
+  margin: 30px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: "Montserrat";
+   width: 200px;
+   font-size: 24px;
+   font-weight: 200;
+   padding: 5px;
+   background-color: #11999E;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_WWJ:hover {
+   background: #66BFBF;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20;
+   text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.footer-link{
+  color: #11999E;
+  font-family: "Poppins";
+  margin: 0 18px ;
+}
+
+.footer-surname{
+  color: #eaf6f6;
+  font-family: "Bitter";
+  line-height: 3;
+}
